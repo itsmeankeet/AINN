@@ -1,0 +1,1 @@
+# *notes ma her hai assignment wala copy ma xah RNN rw CNN ko ramro note*
